@@ -11,3 +11,18 @@ C:\Users\Dure\Documents\Visual Studio 2013\Projects\WebApplication\WindowsFormsA
 C:\Users\Dure\Documents\Visual Studio 2013\Projects\WebApplication\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.PL.Report.resources
 C:\Users\Dure\Documents\Visual Studio 2013\Projects\WebApplication\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\RdlCompile.cache
 C:\Users\Dure\Documents\Visual Studio 2013\Projects\WebApplication\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\RdlCompile.compiled
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\bin\Debug\MetroFramework.dll
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.PL.CashierOrder.resources
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.PL.Report.resources
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.UserForm.resources
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\RdlCompile.cache
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\RdlCompile.compiled
+C:\Users\Dure\Desktop\SA\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.PL.OrderReport.resources
